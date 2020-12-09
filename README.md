@@ -104,3 +104,6 @@ freezing day of winter so when the car is heated up or freezes due to the warm o
 air outside and the temperature inside the car goes up or down the default temperature
 of the car the life saver alarm will start buzzing and the light will turn on notifying the
 people around that baby’s life is in danger. This will help save baby’s life
+
+![IMG-3600](https://user-images.githubusercontent.com/71801806/101568646-91459200-3998-11eb-8dba-ec8f535668c9.jpg)
+
