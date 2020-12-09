@@ -91,6 +91,7 @@ Female. They are connected in the breadboard to help with our connections.
 
 Circuit Diagram
 
+![Screenshot 2020-12-07 195149](https://user-images.githubusercontent.com/71801806/101568006-758dbc00-3997-11eb-9ad5-a6ee344dc214.png)
 
 Test Procedure
 
